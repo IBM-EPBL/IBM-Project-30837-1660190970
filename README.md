@@ -7,12 +7,12 @@ There are various applications that provide solutions to manage personal and gro
 # _Demo Video Link_
 
 You can view the demo video of our project here:
--[**_Demo Video_**](https://drive.google.com/drive/folders/1p1BY00_QLu9evyMhng0UgyYd-MGf1sRT?usp=sharing)
+- [**_Demo Video_**](https://drive.google.com/drive/folders/1p1BY00_QLu9evyMhng0UgyYd-MGf1sRT?usp=sharing)
 
 
 ## _Authors_
 
 - [**_Sowmya V_**](https://github.com/vsowmyasv)
 - [**_Shakthi A S_**](https://github.com/Shakthi2611)
--[**_Harshini S_**]
--[**_Vanitha R_**]
+- [**_Harshini S_**]
+- [**_Vanitha R_**]
