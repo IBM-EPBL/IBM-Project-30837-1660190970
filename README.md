@@ -12,7 +12,7 @@ You can view the demo video of our project here:
 
 ## _Authors_
 
-- [**_Sowmya V_**](https://github.com/vsowmyasv)
+- [**_Sowmya V_**](https://github.com/vsowmyasv) - Team Lead
 - [**_Shakthi A S_**](https://github.com/Shakthi2611)
 - **_Harshini S_**
 - **_Vanitha R_**
