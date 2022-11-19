@@ -14,5 +14,5 @@ You can view the demo video of our project here:
 
 - [**_Sowmya V_**](https://github.com/vsowmyasv)
 - [**_Shakthi A S_**](https://github.com/Shakthi2611)
-- [**_Harshini S_**]
-- [**_Vanitha R_**]
+- **_Harshini S_**
+- **_Vanitha R_**
